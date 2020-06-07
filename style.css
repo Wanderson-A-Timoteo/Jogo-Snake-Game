@@ -9,6 +9,6 @@ body {
 }
 
 /* Defindo as caracteristicas dos objetos dentro do footer que são (p) paragrafos */
-footer p, a{
+footer p, a {
     text-align: center; /* Define que todos os textos em (p) ficarão centralizado no site */
 }
