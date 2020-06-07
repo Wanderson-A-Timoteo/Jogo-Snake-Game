@@ -7,3 +7,8 @@ body {
     flex-direction: column;
     color: rgb(44, 136, 44);
 }
+
+/* Defindo as caracteristicas dos objetos dentro do footer que são (p) paragrafos */
+footer p, a{
+    text-align: center; /* Define que todos os textos em (p) ficarão centralizado no site */
+}
